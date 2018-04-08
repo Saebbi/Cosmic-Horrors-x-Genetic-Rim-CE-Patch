@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>Cosmic Horrors x Genetic Rim (CE compatibility patch)</name>
+  <name>Cosmic Horrors - Genetic Rim CE Patch</name>
   <author>Saebbi</author>
   <targetVersion>0.18.0</targetVersion>
   <description>
-Makes the Cosmic Horrors patch for Genetic Rim compatible with Combat Extended.
+Makes the Cosmic Horrors x Genetic Rim patch compatible with Combat Extended.
 </description>
 </ModMetaData>
