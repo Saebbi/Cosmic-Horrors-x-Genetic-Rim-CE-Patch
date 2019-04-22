@@ -2,7 +2,9 @@
 <ModMetaData>
   <name>Cosmic Horrors - Genetic Rim CE Patch</name>
   <author>Saebbi</author>
-  <targetVersion>1.0.2059</targetVersion>
+  <supportedVersions>
+	<li>1.0</li>
+  </supportedVersions>
   <description>
 Makes the Cosmic Horrors x Genetic Rim patch compatible with Combat Extended.
 </description>
